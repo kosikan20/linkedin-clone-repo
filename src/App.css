@@ -1,0 +1,10 @@
+html{
+  font-family: "Roboto", sans-serif;
+}
+.app_body {
+  display: flex;
+}
+
+.app {
+  background-color: #f3f2ef;
+}
